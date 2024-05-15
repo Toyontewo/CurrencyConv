@@ -1,4 +1,3 @@
-# Currency Converter 
 # Currency Converter
 
 ## Description
@@ -23,5 +22,7 @@ To get started with the currency converter, you can clone the repository using t
 
 ```bash
 # Open your terminal and run:
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Toyontewo/CurrencyConv.git
+cd CurrencyConv
+pip install tkinter
+python3 currency_convert.py
