@@ -1,6 +1,7 @@
 # Currency Converter
 
 ## Description
+![Currency Converter](https://github.com/Toyontewo/CurrencyConv/blob/main/Screenshot%202024-05-15%20at%2010.58.59%20PM.png)
 
 This Python script provides a simple graphical user interface (GUI) for converting currency between US Dollars (USD) and Nigerian Naira (NGN) using the `tkinter` library. 
 
